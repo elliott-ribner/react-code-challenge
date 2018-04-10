@@ -1,0 +1,67 @@
+.App-title {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 90px; 
+}
+
+.App-addTask {
+  margin-left: 40px;
+}
+
+.liTaskItem {
+  margin: 1px;
+  padding: 1px;
+}
+
+.liBtn{
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+label{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 1px 0;
+}
+
+.clsTaskForm {
+  display: inline-block;
+  margin-left: 4px;
+  margin-bottom: 0;
+}
+
+.inputField {
+  width: 550px;
+  margin-right: 2px; 
+}
+
+button {
+  margin: 2px; 
+}
+
+input {
+  vertical-align: middle;
+}
+
+.LabelStyle
+{
+  margin-left: 2px;
+  margin-right: 2px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.clsTaskList {
+  margin: 0;
+  list-style-type: none;
+}
+
+.clsCheckAll{
+  margin-left: 754px;
+}
+
+.clsCheckBox{
+  margin-left: 30px;
+}
+
+

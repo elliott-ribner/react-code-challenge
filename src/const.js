@@ -1,0 +1,6 @@
+export const ADD_TASK = 'ADD_TASK'
+export const TOGGLE_TASK = 'TOGGLE_TASK'
+export const MOVE_UP_TASK = 'MOVE_UP_TASK'
+export const MOVE_DOWN_TASK = 'MOVE_DOWN_TASK'
+export const REMOVE_TASK = 'REMOVE_TASK'
+export const CHECK_ALL_TASKS = 'CHECK_ALL_TASKS'
